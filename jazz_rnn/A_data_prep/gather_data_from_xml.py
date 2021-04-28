@@ -183,6 +183,7 @@ def get_all_durations(songs):
     small_duration_set_8 = {}
 
     for song in songs:
+        print(song)
         s = m21.converter.parse(song)
         for n in s.flat.getElementsByClass(['Note', 'Rest']):
             quarter_length = n.duration.quarterLength
