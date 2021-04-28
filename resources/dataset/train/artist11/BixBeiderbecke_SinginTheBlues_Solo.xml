@@ -16,12 +16,12 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="Pfddfc84c8d115ab4703e3cf57f932d5e">
+    <score-part id="Pfb58cc3dbc4845ad83fe5c1c24212110">
       <part-name />
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="Pfddfc84c8d115ab4703e3cf57f932d5e">
+  <part id="Pfb58cc3dbc4845ad83fe5c1c24212110">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -40,6 +40,12 @@
         </direction-type>
         <sound tempo="133" />
       </direction>
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>minor-seventh</kind>
+      </harmony>
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
